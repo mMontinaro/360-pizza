@@ -4,7 +4,6 @@ import { Header } from './components/layout/Header';
 import { Footer } from './components/layout/Footer';
 import { Hero } from './components/hero/Hero';
 import { MenuSection } from './components/menu/MenuSection';
-import { About } from './components/restaurant/About';
 import { Contact } from './components/restaurant/Contact';
 import { OpeningHours } from './components/restaurant/OpeningHours';
 import { PaniniDetails } from './components/PaniniDetails';
@@ -21,7 +20,6 @@ function App() {
         <Hero/>
         <MenuSection/>
         <PaniniDetails/>
-        <About/>
         <OpeningHours/>
         <Contact/>
     </main>
