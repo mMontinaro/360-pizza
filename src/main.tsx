@@ -11,6 +11,7 @@ import './styles/global.css';
 import './styles/contact-hours.css';
 import './styles/menu-prices.css';
 import './styles/panini-details.css';
+import { About } from './components/restaurant/About';
 
 function App() { 
     const [open, setOpen] = useState(false); 
@@ -20,6 +21,7 @@ function App() {
         <Hero/>
         <MenuSection/>
         <PaniniDetails/>
+        <About/>
         <OpeningHours/>
         <Contact/>
     </main>

@@ -1,0 +1,262 @@
+{
+  "common": {
+    "brandName": "360° Pizza & Cucina",
+    "placeholderLogo": "Logo",
+    "placeholderLogoLabel": "temporaneo",
+    "phoneCall": "Chiamaci",
+    "call": "Chiama",
+    "menu": "Menù",
+    "about": "Chi siamo",
+    "contact": "Contatti",
+    "addressSeparator": "·",
+    "openMenu": "Apri menu",
+    "closeMenu": "Chiudi menu",
+    "whatsapp": "WhatsApp",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "eveningHours": "18.00–23.00",
+    "middayHours": "12.00–15.00",
+    "italy": "Italia"
+  },
+  "restaurant": {
+    "tagline": "Forno a legna",
+    "street": "Via del Murillo 51",
+    "city": "Latina Scalo",
+    "countryKey": "italy",
+    "phone": "0773 1352761"
+  },
+  "navigation": {
+    "hours": "Orari",
+    "sharedLabelsUseCommon": true
+  },
+  "hero": {
+    "title": {
+      "beforeHighlight": "Pizza, cucina",
+      "highlight": "a 360°."
+    },
+    "description": "Sapori italiani, forno a legna e tutta la semplicità di una tavola fatta bene.",
+    "discoverMenu": "Scopri il menù",
+    "stamp": {
+      "usesCommonPlaceholder": true
+    }
+  },
+  "features": [
+    "Pizza",
+    "Cucina",
+    "Panini"
+  ],
+  "menu": {
+    "eyebrow": "Il nostro menù",
+    "title": {
+      "beforeHighlight": "Fatto per essere",
+      "highlight": "scoperto."
+    },
+    "description": "Le nostre pizze e i fritti preparati con gusto e semplicità.",
+    "categories": {
+      "rosse": "Le Rosse",
+      "bianche": "Le Bianche",
+      "speciali": "Le Pizze Speciali",
+      "fritti": "I Fritti"
+    },
+    "additionalIngredients": "Aggiunta ingredienti",
+    "additionalIngredientTypes": {
+      "coldCuts": "Affettati",
+      "vegetables": "Verdure"
+    },
+    "items": {
+      "rosse": [
+        { "name": "Rossa", "description": "pomodoro, olio, sale" },
+        { "name": "Margherita", "description": "pomodoro, mozzarella, basilico" },
+        { "name": "Marinara", "description": "pomodoro, aglio, origano, olio" },
+        { "name": "Napoli", "description": "pomodoro, mozzarella, acciughe, origano" },
+        { "name": "Funghi", "description": "pomodoro, mozzarella, funghi" },
+        { "name": "Funghi e Cotto", "description": "pomodoro, mozzarella, funghi, prosciutto cotto" },
+        { "name": "Diavola", "description": "pomodoro, mozzarella, spianata calabrese" },
+        { "name": "Tonno e Cipolla", "description": "pomodoro, mozzarella, tonno, cipolla" },
+        { "name": "Parmigiana", "description": "pomodoro, mozzarella, melanzane, parmigiano" },
+        { "name": "Zucchine", "description": "pomodoro, mozzarella, speck, zucchine grigliate" },
+        { "name": "Crostino", "description": "mozzarella, prosciutto crudo" },
+        { "name": "Crudo", "description": "pomodoro, mozzarella, prosciutto crudo" },
+        { "name": "4 Stagioni", "description": "pomodoro, mozzarella, prosciutto cotto, olive, carciofi sottolio, funghi" },
+        { "name": "Capricciosa", "description": "pomodoro, mozzarella, prosciutto crudo, carciofi sottolio, olio, uovo sodo" },
+        { "name": "Vegetariana", "description": "pomodoro, mozzarella, melanzane, zucchine, peperoni, cipolla" },
+        { "name": "Friarielli", "description": "pomodoro, mozzarella, salsiccia, friarielli" },
+        { "name": "Il Brigante", "description": "pomodoro, mozzarella, ventricina piccante, funghi, scamorza, ricotta" },
+        { "name": "Salsiccia", "description": "pomodoro, mozzarella, salsiccia casareccia" },
+        { "name": "Salsiccia e Funghi", "description": "pomodoro, mozzarella, salsiccia casareccia, funghi" },
+        { "name": "Sicilia", "description": "pomodoro, mozzarella, acciughe, capperi, melanzane fritte, pomodori secchi" },
+        { "nameKey": "italy", "description": "pomodoro, mozzarella, rucola, prosciutto crudo, scaglie di parmigiano, pomodorini" },
+        { "name": "Bufala", "description": "pomodoro, mozzarella, bufala" }
+      ],
+      "bianche": [
+        { "name": "Focaccia", "description": "olio, origano, sale" },
+        { "name": "Salsiccia e Patate", "description": "mozzarella, salsiccia casareccia, patate al forno" },
+        { "name": "Genovese", "description": "mozzarella, ricotta, pesto, pomodori secchi" },
+        { "name": "Speck", "description": "mozzarella, rucola, speck, scaglie di parmigiano" },
+        { "name": "Zola e Noci", "description": "mozzarella, gorgonzola, noci, salsiccia" },
+        { "name": "Grigia", "description": "mozzarella, guanciale, pecorino romano, pepe" }
+      ],
+      "speciali": [
+        { "name": "Carbonara", "description": "mozzarella, guanciale, uovo, pepe, pecorino romano, parmigiano" },
+        { "name": "Salento", "description": "pomodoro, mozzarella, pomodori secchi, alici, burrata" },
+        { "name": "Calabrisella", "description": "pomodoro, mozzarella, nduja, scamorza, spianata calabrese, cipolla di Tropea" },
+        { "name": "Mexicana", "description": "pomodoro, mozzarella, fagioli, salsiccia, nduja" },
+        { "name": "Tartufata", "description": "crema di tartufo, mozzarella, scamorza, porcini" },
+        { "name": "Maremma Maiala", "description": "mozzarella, olive nere, scamorza, lardo di colonnata, parmigiano" },
+        { "name": "Mortadella", "description": "mozzarella, crema di carciofi, stracciatella, mortadella" },
+        { "name": "La Burrata", "description": "pomodoro, mozzarella, rucola, prosciutto crudo, burrata al centro" },
+        { "name": "Mari e Monti", "description": "mozzarella, funghi champignon, prosciutto cotto, gamberi, tonno" },
+        { "name": "Mare", "description": "pomodoro, mozzarella, cozze, vongole, gamberi, tonno" },
+        { "name": "La Magra", "description": "focaccia, salsiccetta, rucola, pomodorini, bresaola" },
+        { "name": "Bolognese", "description": "ragù di carne, mozzarella, parmigiano" },
+        { "name": "Salmone", "description": "crema di salmone, mozzarella, rucola, gamberi, aceto" },
+        { "name": "Tropea", "description": "pomodoro, mozzarella, kebab, cipolla di Tropea, salsa barbecue" },
+        { "name": "White", "description": "mozzarella, kebab, insalata, cavolo bianco, cipolla, salsa yogurt" },
+        { "name": "Red", "description": "pomodoro, mozzarella, kebab, scamorza, gorgonzola, cavolo rosso" },
+        { "name": "Calzone Montano", "description": "mozzarella, prosciutto cotto, funghi, scamorza, carciofi sottolio" },
+        { "name": "Calzone Aosta", "description": "pomodoro, mozzarella, olive nere, gorgonzola, funghi, speck" },
+        { "name": "Calzone Calabria", "description": "pomodoro, mozzarella, scamorza, spianata calabrese, nduja, cipolla Tropea" },
+        { "name": "Calzone 360°", "description": "pomodoro, mozzarella, funghi, prosciutto cotto, salsiccia, ricotta, scamorza, uovo sodo, carciofini" }
+      ],
+      "fritti": [
+        { "name": "Patatine fritte top" },
+        { "name": "Fiori di zucca" },
+        { "name": "Crocchette patate e mozzarella" },
+        { "name": "Arancino Sicilia" },
+        { "name": "Supplì" },
+        { "name": "Baccalà" },
+        { "name": "Frittata di spaghetti" },
+        { "name": "Nuggets (pz. 10)" },
+        { "name": "Olive ascolane (pz. 10)" },
+        { "name": "Casatiello" },
+        { "name": "Hot Dog" }
+      ]
+    }
+  },
+  "panini": {
+    "eyebrow": "Una formula tutta tua",
+    "title": {
+      "beforeHighlight": "Costruisci il tuo",
+      "highlight": "Panino a 360°."
+    },
+    "description": "Scegli la formula, la carne, e tre condimenti che preferisci.",
+    "steps": [
+      "Scegli la formula",
+      "Scegli la carne",
+      "Scegli 3 condimenti"
+    ],
+    "formulas": {
+      "heading": "Formule",
+      "items": [
+        "Solo Panino",
+        "Carne + 3 condimenti + patatine fritte + bibita in lattina",
+        "Carne + 3 condimenti + patatine fritte + vino o birra alla spina"
+      ]
+    },
+    "meat": {
+      "heading": "Carne",
+      "items": [
+        "Hamburger di bovino 150 g",
+        "Hamburger crunchy di pollo",
+        "Salsiccia casareccia",
+        "Kebab di pollo e tacchino"
+      ]
+    },
+    "sauces": {
+      "heading": "Salse",
+      "items": [
+        "Maionese",
+        "Ketchup",
+        "Barbecue",
+        "Mostarda",
+        "Yogurt",
+        "Piccante",
+        "Cheddar"
+      ]
+    },
+    "condiments": {
+      "heading": "Condimenti",
+      "items": [
+        "Insalata iceberg",
+        "Insalata cavolo bianco",
+        "Insalata cavolo rosso",
+        "Pomodoro da insalata",
+        "Zucchine grigliate",
+        "Melanzane fritte",
+        "Peperoni grigliati",
+        "Broccoletti ripassati",
+        "Cicoria ripassata",
+        "Carciofi sottolio",
+        "Rucola",
+        "Cetriolo",
+        "Mais",
+        "Gorgonzola",
+        "Bacon in piastra",
+        "Uovo fritto",
+        "Prosciutto cotto",
+        "Peperoncino piccante",
+        "Scamorza"
+      ]
+    },
+    "stamp": {
+      "beforeHighlight": "logo",
+      "usesCommonPlaceholderLabel": true
+    }
+  },
+  "about": {
+    "eyebrow": "Il cuore di 360°",
+    "title": {
+      "beforeHighlight": "Il calore delle cose",
+      "highlight": "vere."
+    },
+    "description": "Il forno a legna è il punto di partenza. Da lì nascono pizze, piatti e panini da condividere, in un’atmosfera semplice e accogliente.",
+    "imageText": {
+      "beforeHighlight": "FORNO",
+      "highlight": "A LEGNA"
+    },
+    "visitUs": "Vieni a trovarci"
+  },
+  "openingHours": {
+    "title": {
+      "beforeHighlight": "Orari di",
+      "highlight": "apertura."
+    },
+    "days": {
+      "tuesdayToSaturday": {
+        "label": "Mar–Sab",
+        "timeSlotKeys": ["middayHours", "eveningHours"]
+      },
+      "sunday": {
+        "label": "Dom",
+        "timeSlotKeys": ["eveningHours"]
+      },
+      "monday": {
+        "label": "Lun",
+        "timeSlots": []
+      }
+    },
+    "closed": "Chiuso"
+  },
+  "contact": {
+    "eyebrow": "Dove trovarci",
+    "title": {
+      "beforeHighlight": "Vieni a",
+      "highlight": "provare."
+    },
+    "addressLabel": "Indirizzo",
+    "phoneLabel": "Telefono",
+    "socialLabelsUseCommon": true
+  },
+  "footer": {
+    "description": "Pizza, cucina e forno a legna a Latina Scalo.",
+    "copyright": "© 360° Pizza & Cucina",
+    "location": "Latina Scalo · Italia",
+    "navigationUsesCommon": true
+  },
+  "mobileActions": {
+    "labelsUseCommon": true
+  },
+  "accessibility": {
+    "labelsUseCommon": true
+  }
+}

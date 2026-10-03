@@ -27,7 +27,7 @@ export function Hero() {
                     <MapPin size={16} /> {restaurant.address.street} · {restaurant.address.city}
                 </p>
             </div>
-            <div className="hero-stamp">dal forno<br /><strong>alla tavola</strong>
+            <div className="hero-stamp">Logo<br /><strong>temporaneo</strong>
             </div>
         </section>
     </>;

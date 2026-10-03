@@ -31,7 +31,13 @@ export function MenuSection() {
               {item.title.replace('Le ', '')}
             </button>)}
       </div>
-      <p className="ingredient-prices"><strong>Aggiunta ingredienti</strong><span>Affettati {euro(additionalIngredientPrices.affettati)}</span><span>Verdure {euro(additionalIngredientPrices.verdure)}</span>
+      <p className="ingredient-prices"><strong>Aggiunta ingredienti</strong>
+        <p>
+          <span>Affettati {euro(additionalIngredientPrices.affettati)}</span>
+        </p>
+        <p>
+          <span>Verdure {euro(additionalIngredientPrices.verdure)}</span>
+        </p>
       </p>
     </div>
     <div className="menu-list">
